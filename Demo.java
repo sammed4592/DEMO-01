@@ -8,4 +8,8 @@ public class Demo
 	{
 		//do some coding here
 	}
+	public String doDeveloperWork()
+	{
+		//Do some checks
+	}
 }
